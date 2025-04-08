@@ -55,7 +55,7 @@ serde_json = "1.0.140"
 serde_yaml = "0.9.34"
 tar = "0.4.44"
 terminal-link = "0.1.0"
-tokio = { version = "1.44.1", features = ["rt-multi-thread"] }
+tokio = { version = "1.44.2", features = ["rt-multi-thread"] }
 tracing = "0.1.41"
 tracing-indicatif = "0.3.9"
 tracing-subscriber = { version = "0.3.19", features = ["env-filter"] }
